@@ -43,7 +43,7 @@ metadata: repo_arena_metadata
 organization-name: "Pontificia Universidad Católica del Perú (PUCP) - Red Interamericana de Academias de Ciencias (IANAS)"
 organization-link: https://www.pucp.edu.pe/
 organization-logo-banner: assets/img/ianaspucp.png
-# organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
+organization-logo-nav: assets/img/ianaspucpnav.png
 
 ##########
 # ROBOTS EXCLUDE
