@@ -20,14 +20,14 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Repositorio Extracción de Arena 
+title: Repositorio Institucional
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Minería de arena
+tagline: Extracción de Arena
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "El presente repositorio mantiene la finalidad de albergar bibliografía en relación a la minería de arena"
+description: "El presente repositorio mantiene la finalidad de albergar bibliografía en relación a la minería de arena en distintas localidades del mundo. Los textos mantienen distintas temáticas relacionadas, como los impactos ambientales y sociales consecuentes de su extracción."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: Fátima L
+author: Fátima Luchini
 
 ##########
 # COLLECTION SETTINGS
@@ -40,8 +40,8 @@ metadata: repo_arena_metadata
 # Site/Organization Branding 
 #   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #
-# organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-# organization-link: https://cdil.lib.uidaho.edu/
+organization-name: "Pontificia Universidad Católica del Perú (PUCP) - Red Interamericana de Academias de Ciencias (IANAS)"
+organization-link: https://www.pucp.edu.pe/
 # organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
 # organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
 
