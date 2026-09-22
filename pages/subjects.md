@@ -1,5 +1,5 @@
 ---
-title: Subjects
+title:Explorar temas
 layout: cloud
 permalink: /subjects.html
 # Default subject page is configured in "_data/theme.yml"
@@ -10,5 +10,5 @@ cloud-fields: site.data.theme.subjects-fields
 
 ## Browse Subjects
 
-Use this word cloud visualization to browse terms and subjects.
-Word size is determined by frequency and all words link to a corresponding collection search.
+Explora los términos y temas de la colección mediante esta nube de palabras. 
+El tamaño representa la frecuencia y cada palabra enlaza a la búsqueda correspondiente.
