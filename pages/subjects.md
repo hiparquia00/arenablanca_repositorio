@@ -8,7 +8,7 @@ permalink: /subjects.html
 cloud-fields: site.data.theme.subjects-fields
 ---
 
-## Browse Subjects
+## Explorar temas
 
 Explora los términos y temas de la colección mediante esta nube de palabras. 
 El tamaño representa la frecuencia y cada palabra enlaza a la búsqueda correspondiente.
