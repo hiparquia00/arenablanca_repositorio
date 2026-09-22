@@ -20,12 +20,13 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Repositorio Institucional
+title: Minería de Arena
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Extracción de Arena
+tagline: Repositorio Institucional
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "El presente repositorio mantiene la finalidad de albergar bibliografía en relación a la minería de arena en distintas localidades del mundo. Los textos mantienen distintas temáticas relacionadas, como los impactos ambientales y sociales consecuentes de su extracción."
+description: "Este repositorio reúne y organiza bibliografía y otros recursos relacionados con la minería y extracción de arena en distintos contextos geográficos y ambientales. Su colección aborda particularmente la extracción minera de arena en bosques sobre arena blanca de la Amazonía, así como en ríos, playas y desiertos, e incorpora investigaciones provenientes de distintos continentes, incluyendo América del Sur, Asia, África y Europa. El repositorio busca facilitar el acceso, consulta y difusión de información sobre esta actividad, sus características, impactos y las dinámicas socioambientales asociadas. El repositorio tiene además una vocación colaborativa y se encuentra en proceso de crecimiento. Actualmente reúne principalmente documentos en formato PDF, pero se espera incorporar progresivamente fotografías, videos, mapas y otros materiales que contribuyan a documentar y comprender la extracción de arena. Invitamos a investigadores, estudiantes, organizaciones y personas interesadas a compartir bibliografía y recursos que puedan enriquecer la colección. Este repositorio nace en el marco del proyecto “Manejo de Agua, Bosques y Arena en la Amazonía - Seguridad para el Ecosistema y Salud Humana”, desarrollado en colaboración con la Interamerican Network of Academies of Sciences (IANAS), la Pontificia Universidad Católica del Perú (PUCP), la Universidad Nacional de la Amazonía Peruana (UNAP) y la Universidad Nacional Agraria La Molina (UNALM).
+"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Fátima Luchini
 
