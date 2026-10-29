@@ -10,7 +10,6 @@ credits: false
 
 {% include feature/jumbotron.html objectid="assets/img/jumbo_1_ver.png" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
 ## Acerca de esta colección
 
