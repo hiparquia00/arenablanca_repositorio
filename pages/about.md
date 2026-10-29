@@ -22,6 +22,6 @@ Este repositorio nace en el marco del proyecto “Manejo de Agua, Bosques y Aren
 
 ### Minería de arena blanca en la Amazonía peruana
 
-{% include feature/image.html objectid="assets/img/cant_act" caption="Cantera de arena blanca activa en San Juan Bautista, Maynas, Perú" width="75" %}
+{% include feature/image.html objectid="assets/img/cant_act.png" caption="Cantera de arena blanca activa en San Juan Bautista, Maynas, Perú" width="75" %}
 
 {% include feature/image.html objectid="assets/img/cant_rest1.png" caption="Bosque sobre arena blanca en restauración ecológica pasiva, tras el abandono de la cantera, San Juan Bautista, Maynas, Perú" width="75" %}
