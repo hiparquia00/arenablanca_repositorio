@@ -20,7 +20,7 @@ La presente colección busca facilitar el acceso, consulta y difusión de inform
 
 Este repositorio nace en el marco del proyecto “Manejo de Agua, Bosques y Arena en la Amazonía - Seguridad para el Ecosistema y Salud Humana”, desarrollado en colaboración con la Interamerican Network of Academies of Sciences (IANAS), la Pontificia Universidad Católica del Perú (PUCP) y la Universidad Nacional de la Amazonía Peruana (UNAP).
 
-# Minería de arena blanca en la Amazonía peruana
+### Minería de arena blanca en la Amazonía peruana
 
 {% include feature/image.html objectid="cant_act" caption="Cantera de arena blanca activa en San Juan Bautista, Maynas, Perú" %}
 
