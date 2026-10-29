@@ -3,7 +3,7 @@ title: About
 layout: about
 permalink: /about.html
 # include CollectionBuilder info at bottom
-credits: true
+credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
@@ -12,16 +12,16 @@ credits: true
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
-## About the Collection
+## Acerca de esta colección
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+La presente colección busca facilitar el acceso, consulta y difusión de información sobre la minería de arena blanca, sus características, impactos y las dinámicas socioambientales asociadas. El repositorio tiene, además, una vocación colaborativa y se encuentra en proceso de crecimiento. Actualmente, reúne, principalmente, papers e investigaciones, pero se espera incorporar progresivamente fotografías, videos, mapas y otros materiales que contribuyan a documentar y comprender la extracción de arena. Por ello, invitamos a investigadores, estudiantes, organizaciones y público en general a compartir bibliografía y recursos que puedan enriquecer la colección.
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+{% include feature/modal.html button="adjunta bibliografía o recursos" title="when clicked:" text="Si te gustaría aportar a la colección con bibliografía o recursos acerca de la minería de arena, escribe al correo aaaa@gmail.com." color="success" %}
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
+Este repositorio nace en el marco del proyecto “Manejo de Agua, Bosques y Arena en la Amazonía - Seguridad para el Ecosistema y Salud Humana”, desarrollado en colaboración con la Interamerican Network of Academies of Sciences (IANAS), la Pontificia Universidad Católica del Perú (PUCP) y la Universidad Nacional de la Amazonía Peruana (UNAP).
 
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
+# Minería de arena blanca en la Amazonía peruana
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+{% include feature/image.html objectid="cant_act" caption="Cantera de arena blanca activa en San Juan Bautista, Maynas, Perú" %}
+
+{% include feature/image.html objectid="assets/img/cant_rest1.png" caption="Bosque sobre arena blanca en restauración ecológica pasiva, tras el abandono de la cantera, San Juan Bautista, Maynas, Perú" %}
